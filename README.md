@@ -1,0 +1,2 @@
+# descending_sorted_triplet_brute_force_algorithm
+ find_descending_sorted_triplet,Implimintation Python Code
